@@ -2,6 +2,11 @@
 
 A rewrite of https://github.com/nahamsec/lazys3 into python.
 
+### Installation
+```
+pip3 install requirements.txt
+```
+
 ### Usage
 ```
 python3 lazys3.py -h
